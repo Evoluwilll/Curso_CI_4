@@ -64,4 +64,3 @@ jobs:
     needs: build
     uses: ./.github/workflows/EC2.yml
     secrets: inherit
-
